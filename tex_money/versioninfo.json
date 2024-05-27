@@ -1,0 +1,43 @@
+{
+    "FixedFileInfo": {
+        "FileVersion": {
+            "Major": 109,
+            "Minor": 0,
+            "Patch": 9,
+            "Build": 27
+        },
+        "ProductVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "FileFlagsMask": "3f",
+        "FileFlags ": "00",
+        "FileOS": "040004",
+        "FileType": "01",
+        "FileSubType": "00"
+    },
+    "StringFileInfo": {
+        "Comments": "1.00",
+        "CompanyName": "(株)アルメックス",
+        "FileDescription": "入出金管理サービス (入出金管理システム tex_money)",
+        "FileVersion": "1.00",
+        "InternalName": "tex_money",
+        "LegalCopyright": "Copyright (C) ALMEX Inc. 2023",
+        "LegalTrademarks": "",
+        "OriginalFilename": "tex_money.exe",
+        "PrivateBuild": "",
+        "ProductName": "FIT-A",
+        "ProductVersion": "1.00",
+        "SpecialBuild": ""
+    },
+    "VarFileInfo": {
+        "Translation": {
+            "LangID": "0409",
+            "CharsetID": "04B0"
+        }
+    },
+    "IconPath": "",
+    "ManifestPath": ""
+}

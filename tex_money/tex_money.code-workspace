@@ -1,0 +1,38 @@
+{
+    "folders": [
+        {
+            "name": "tex_money",
+            "path": "C:/almex/fit/unifunc/tex_money"
+        },
+        {
+            "name": "stub",
+            "path": "C:/Users/a-sakita/Desktop/リグレッションテスト自動化/stub/stub"
+        }
+    ],
+    "settings": {},
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Debug Tex Money",
+                "type": "go",
+                "request": "launch",
+                "mode": "debug",
+                "program": "C:/almex/fit/unifunc/tex_money/main.go",
+            },
+            {
+                "name": "Debug Stub",
+                "type": "go",
+                "request": "launch",
+                "mode": "debug",
+                "program": "C:/Users/a-sakita/Desktop/リグレッションテスト自動化/stub/stub/main.go"
+            }
+        ],
+        "compounds": [
+            {
+                "name": "Debug Both",
+                "configurations": ["Debug Tex Money", "Debug Stub"]
+            }
+        ]
+    }
+}
